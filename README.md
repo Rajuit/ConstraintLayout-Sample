@@ -3,7 +3,6 @@
 
 A demo app to showcase constraint layout implementation in Android
 
-Please checkout the medium article [here](https://medium.com/@anitaa_1990/learning-to-implement-constraintlayout-in-android-8ddc69fe0a1a) for a detailed explanation on how to build the above user interface.
 
 <img src="https://github.com/anitaa1990/ConstraintLayout-Sample/blob/new_changes/media/demo.gif" width="300" style="max-width:100%;"></br></br>
 
